@@ -1,0 +1,45 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LoginToAcmeWebsite.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Username&Sequence_2",
+        "Password&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "NavigateToAddVendor.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vendorCountry&Sequence_2",
+        "vendorCity&Sequence_2",
+        "vendorAddress&Sequence_2",
+        "vendorName&Sequence_2",
+        "vendorID&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

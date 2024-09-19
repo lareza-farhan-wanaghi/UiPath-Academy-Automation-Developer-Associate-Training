@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NewFileName&Sequence_25",
+        "InputFilePath&Sequence_1",
+        "InputFileInfo&Sequence_1",
+        "InputFolderPath&Sequence_1",
+        "ExtractedFolderPath&Sequence_1",
+        "ContractsFolderPath&Sequence_1",
+        "InvoicesFolderPath&Sequence_1",
+        "ProcessedFolderPath&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ExtractedFolderPath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

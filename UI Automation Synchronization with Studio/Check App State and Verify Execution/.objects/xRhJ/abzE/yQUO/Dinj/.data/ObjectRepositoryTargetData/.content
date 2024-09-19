@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1m5dlM9SJkK2zKScRoUJqg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/login" CVScreenId="5dee82d3-9a13-4896-9ddd-e436677dbe78" CvElementArea="167, 875, 94, 55" CvTextArea="187, 891, 54, 25" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="171, 878, 89, 50" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="172e26c0-d9ff-478d-988c-7bbae25e6ef2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5dee82d3-9a13-4896-9ddd-e436677dbe78" CvTextArea="169, 325, 132, 57" CvTextArgument="Login" CvType="Text" DesignTimeRectangle="171, 321, 1410, 74" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                                                                                                                                                     Login                                                         ' check:innerText='Login' /&gt;" Guid="1928b4b8-f2c0-4099-8592-440e20570236" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6cadd1f482f9fbbbd2e5bb4e1e8b48d1.png" xmlns="">0Fd1f8gGZW0msv3EAh-Y5RQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
